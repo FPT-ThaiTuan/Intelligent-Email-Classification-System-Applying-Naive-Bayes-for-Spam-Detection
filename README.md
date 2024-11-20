@@ -10,7 +10,7 @@
 #### **Note : If the code doesn't run, note down the paths to the files because I'm changing them.**
 
 #### **Project construction**
-#### **1. Read the File**
+#### **1. Read the file**
 #### **2. Data Preprocessing**
 #### **3. Data visualization**
 #####  **3.1. Word Clouds for Ham and Spam Messages**
