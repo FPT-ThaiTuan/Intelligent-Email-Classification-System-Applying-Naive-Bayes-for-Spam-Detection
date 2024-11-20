@@ -34,6 +34,7 @@
 ![Image 4](https://github.com/user-attachments/assets/6757bde0-c3c2-4979-bfa9-c0bea403f5cf)
 
 #### **8. Predictions on new data**
+##### **With label 1.0 being spam and label 0.0 being ham**
 ##### **Email: "You've been selected for a special offer. Click here to claim your prize!" -> Prediction: 1.0**
 ##### **Email: "Congratulations! You've won a free ticket." -> Prediction: 0.0**
 ##### **Email: "Hi, can we schedule a meeting tomorrow?" > Prediction: 0.0**
